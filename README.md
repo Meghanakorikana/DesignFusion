@@ -1,2 +1,2 @@
-This is meghana
-Korikana
+This is Meghana
+Korikana(STUDENT)
